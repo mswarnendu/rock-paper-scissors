@@ -6,5 +6,4 @@ This is a simple beginner project in Python that uses the random module to simul
 
 1. Make sure Python is installed on your device
 2. Download or clone this repository
-3. Run the rock_paper_scissors.py file
-
+3. Run the file
